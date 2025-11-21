@@ -73,6 +73,7 @@ namespace DemoCeasar
             lblBest.Text = $"Đã nạp mặc định {TuDien.Count} từ";
         }
 
+
         // ================== KIỂM TRA TỪ HỢP LỆ ==================
 
         // Đếm bao nhiêu từ của chuỗi nằm trong từ điển
